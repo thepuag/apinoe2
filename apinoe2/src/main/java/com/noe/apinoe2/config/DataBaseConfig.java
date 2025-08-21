@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  * Configuración de base de datos SQL Server
  */
 @Configuration
-@EnableJpaRepositories(basePackages = "com.noe.apinoe.repository")
+@EnableJpaRepositories(basePackages = "com.noe.apinoe2.repository")
 @EnableTransactionManagement
 public class DataBaseConfig {
 

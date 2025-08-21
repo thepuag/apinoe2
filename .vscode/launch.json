@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Apinoe2Application<apinoe2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.noe.apinoe2.Apinoe2Application",
+            "projectName": "apinoe2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
