@@ -1,4 +1,4 @@
-package com.apinoe2.apinoe2;
+package com.noe.apinoe2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
